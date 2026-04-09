@@ -10,14 +10,4 @@
  - GameScriptsC_X64.pak (необходимый для .lua скриптинга, который выполняет AI-система)
  - AntiCheat , некий отрывок предотравающий использование читов, обнаруживает хиты на гранату, а так же присылает пакет дисконнекта если слишком много пакетов связанных с Climb (в основном идут с невидимки/десинхронизации)
 
-you need warfacedistrib525
-
-t.me/onlypdb
-t.me/onlypdb
-t.me/onlypdb
-t.me/onlypdb
-t.me/onlypdb
-t.me/onlypdb
-
-
-
+GameClient: warfacedistrib525
