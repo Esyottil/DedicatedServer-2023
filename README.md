@@ -15,4 +15,4 @@
 
 ---
 
-**Автор оригинального кодера (ссылка):** [cryptoeDev](https://github.com/cryptoeDev)
+**Автор:** [cryptoeDev](https://github.com/cryptoeDev)
