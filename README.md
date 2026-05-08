@@ -1,4 +1,4 @@
-# Dedicated Server 2026 by Cryptor aka CryptoeDev aka Артём Петров
+# Dedicated Server 2023 by Cryptor aka CryptoeDev aka Артём Петров
 
 ### Полностью рабочий сервер боев **Warface**, который поддерживает:
 
